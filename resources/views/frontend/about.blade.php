@@ -83,21 +83,21 @@
                                     <div>
                                         <div class="media">
                                             <div class="media-body">
-                                                <a href="https://www.facebook.com/haitiger23"><h3 class="d-flex">Trần Hải<span
+                                                <a href="https://www.facebook.com"><h3 class="d-flex">Nguyễn Trung<span
                                                         class="label-heart color-4 ms-2"><i
                                                             class="fas fa-heart"></i></span></h3>
                                                         </a>
                                             </div>
                                             
                                         </div>
-                                        <h6>Sinh viên năm ba</h6>
-                                        <p class="font-roboto">Xin chào mọi người.Mình là Hải, mình đang là sinh viên năm ba ngành kỹ thuật phần mềm tại ICTU. Mình rất vui khi các bạn ghé thăm một trang web do mình tạo ra. Cảm ơn mọi người rất nhiều !!! </p>
-                                        <span class="font-roboto">FB: Hải Trần</span>
+                                        <h6>PHP Develop</h6>
+                                        <p class="font-roboto">Xin chào mọi người.Mình là Nguyễn Thành Trung, mình đang là một nhân viên lập trình website tại TP Hồ Chí Minh. Mình rất vui khi các bạn ghé thăm một trang web do mình tạo ra. Cảm ơn mọi người rất nhiều !!! </p>
+                                        <span class="font-roboto">FB: Nguyễn Thành Trung</span>
                                     </div>
                                     <div>
                                         <div class="media">
                                             <div class="media-body">
-                                                <a href="#"><h3 class="d-flex">Hải Tiger <span
+                                                <a href="#"><h3 class="d-flex">Trung Nguyễn <span
                                                         class="label-heart color-4 ms-2"><i
                                                             class="fas fa-heart"></i></span></h3>
                                                         </a>
@@ -105,7 +105,7 @@
                                         </div>
                                         <h6>Coder vẫn còn lơ tơ mơ</h6>
                                         <p class="font-roboto">Đây là sản phẩm đầu tiên do bản thân mình làm ra. Mình đã rất cố gắng làm nó thật hoàn chỉnh.Tuy nhiên, Lần đầu thì không thể nào mà chuyên nghiệp được vì vậy trang web sẽ còn khá nhiều lỗi. Nếu các bạn gặp bất kì lỗi nào hoặc có ý kiến đóng góp. Đừng ngận ngại góp ý cho mình nhé </p>
-                                        <span class="font-roboto">haitv.dev@gmail.com</span>
+                                        <span class="font-roboto">nguyenthanhtrung@gmail.com</span>
                                     </div>
                                 </div>
                             </div>

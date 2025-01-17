@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-xl-6 col-md-6">
                     <div class="copy-right">
-                        <p class="mb-0">Code By Hải Trần</p>
+                        <p class="mb-0">Code By Nguyễn Thành Trung</p>
                     </div>
                 </div>
                 <div class="col-xl-6 col-md-6 text-end">
